@@ -1,5 +1,5 @@
 ## I am not a Programmer
-i'm still in high school and here they suck at teaching IT, even my government suck at it (i'm looking at you, indonesia)
+i'm still in high school and here they suck at teaching IT, even my government suck at it (i'm looking at you, indonesia)  
 🐧 Loonix Enthusiast (i use **arch** btw) 
 
 ### Language Spoken: 🇮🇩Indonesian And 🌎English, Both are pretty bad(i'm not very sosial person, that's why)
