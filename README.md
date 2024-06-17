@@ -1,4 +1,4 @@
-![Banner](https://github.com/CooperGTe/dotfiles/blob/main/banner.png?raw=true)
+![Banner](https://github.com/CooperGTe/CooperGTe/blob/main/banner.png?raw=true)
 ## I am not a Programmer
 i'm still in high school and here they suck at teaching IT, even my government suck at it (i'm looking at you, indonesia)  
 🐧 Loonix Enthusiast (i use **arch** btw) 
